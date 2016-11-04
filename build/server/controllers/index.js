@@ -24,7 +24,8 @@ module.exports.main = function(req, res) {
       locale: (instance != null ? instance.locale : void 0) || 'en',
       imports: {
         konnectors: konnectors,
-        folders: folders
+        folders: folders,
+        context: 'cozy'
       }
     });
   });

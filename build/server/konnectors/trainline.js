@@ -20,6 +20,7 @@ var logger = require('printit')({
 
 module.exports = baseKonnector.createNew({
   name: 'Trainline (Captain Train)',
+  slug: 'trainline',
   vendorLink: 'www.captaintrain.com',
 
   category: 'transport',

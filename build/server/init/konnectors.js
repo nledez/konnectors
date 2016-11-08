@@ -20,6 +20,9 @@ Bill = require('../models/bill');
 
 konnectorsToMigrate = [
   {
+    oldSlug: 'captain_train',
+    newSlug: 'trainline'
+  }, {
     oldSlug: 'virginmobile',
     newSlug: 'virgin_mobile'
   }, {

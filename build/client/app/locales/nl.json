@@ -61,6 +61,7 @@
   "error occurred during import:": "Er is een fout opgetreden tijdens de laatste import.",
   "import server error": "Er is een server fout opgetreden tijdens het importeren.",
   "open selected folder": "Open de geselecteerde map",
+  "konnector description trainline": "Download your train vouchers from Trainline. This konnector requires the Files application to store the bill PDF files.",
   "konnector description free": "Download all your internet bills from Free. This konnector requires the Files application to store the bill PDF files.",
   "konnector description free mobile": "Download all your phone bills from Free Mobile. This konnector requires the Files application to store the bill PDF files.",
   "konnector description bouygues": "Download all your phone bills from Bouygues Telecom. This konnector requires the Files application to store the bill PDF files.",
@@ -141,5 +142,11 @@
   "konnector deletion error": "An error occured while deleting this konnector configuration.",
   "calendar": "Calendar in which events will be imported",
   "url": "Target URL",
-  "tag": "Tag"
+  "tag": "Tag",
+
+  "my_accounts title": "My accounts",
+  "my_accounts category title": "Categories",
+  "my_accounts discovery title": "Discovery",
+  "my_accounts connected title": "Connected",
+  "my_accounts coming_soon": "Coming soon!"
 }
